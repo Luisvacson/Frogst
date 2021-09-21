@@ -10,7 +10,7 @@ To dear Luisvacson:
 > Heartily thanks.    --Cloudiannn
 
 
-## Last update:
+## Last updates:
 
 1.New BGM for the first chapter (by Luisvacson).
 
@@ -19,6 +19,6 @@ To dear Luisvacson:
 3.Now you can change the volume by clicking the "GEAR" icon and pulling the slider.
 
 
-##Next update:
+## Next updates:
 
 New Chapters, and so on.
