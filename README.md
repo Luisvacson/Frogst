@@ -21,4 +21,14 @@ To dear Luisvacson:
 
 ## Next updates:
 
-New Chapters, and so on.
+1.New Chapters including new monster and new BGM.
+
+2. ! Bug to feacher: In current version, if you keep going into the barrier, you'll get stuck on it.
+
+   But now it will become a feather: CLIMBING.
+   
+   You will also be able to climb up by pressing SPACE for (approximately) 3 times.
+   
+   Of course, it will look like that.
+
+3. ! Beta version: You'll be able to save and load the settings (only volume in next version) and level.
