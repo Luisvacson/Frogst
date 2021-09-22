@@ -25,7 +25,7 @@ To dear Luisvacson:
 
 2. ! Bug to feature: In current version, if you keep going into the barrier, you'll get stuck on it.
 
-   But now it will become a feather: CLIMBING.
+   But now it will become a feature: CLIMBING.
    
    You will also be able to climb up by pressing SPACE for (approximately) 3 times.
    
