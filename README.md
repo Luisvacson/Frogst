@@ -23,7 +23,7 @@ To dear Luisvacson:
 
 1.New Chapters including new monster and new BGM.
 
-2. ! Bug to feacher: In current version, if you keep going into the barrier, you'll get stuck on it.
+2. ! Bug to feature: In current version, if you keep going into the barrier, you'll get stuck on it.
 
    But now it will become a feather: CLIMBING.
    
